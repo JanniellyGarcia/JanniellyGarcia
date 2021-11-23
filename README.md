@@ -1,4 +1,4 @@
-## Olá! Eu sou a Jannielly Garcia
+## Olá! Eu sou Jannielly Garcia
 
 - 🤓 Sou estudante de Engenharia de Computação - UFC
 - 👩🏾‍💻 Atualmente estudando C#
