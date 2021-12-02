@@ -1,7 +1,7 @@
 ## Olá! Eu sou Jannielly Garcia
 
 - 🤓 Estudante de Engenharia de Computação - UFC
-- 👩🏾‍💻 Desenvolvedora C# .NET em desenvolvimento
+- 👩🏾‍💻 Programadora C# .NET em desenvolvimento
 - 📭 Contate-me pelo e-mail: janniellygarcia12@gmail.com
 - 👩🏾 Pronouns: Ela/Dela
 
