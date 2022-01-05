@@ -3,7 +3,7 @@
 - 🤓 Estudante de Engenharia de Computação - UFC
 - 👩🏾‍💻 Programadora C# .NET em desenvolvimento
 - 📭 Contate-me pelo e-mail: janniellygarcia12@gmail.com
-- 👩🏾 Pronouns: Ela/Dela
+- 👩🏾 Pronomes: Ela/Dela
 
 <div> 
     <a href="https://instagram.com/janniellygarcia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
