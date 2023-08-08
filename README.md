@@ -2,13 +2,13 @@
 
 - 🤓 Estudante de Engenharia de Computação - UFC
 - 👩🏾‍💻 Desenvolvedora Back-End | C# .NET
-- 📭 Contate-me por: janniellygarcia.dev@gmail.com ou https://www.linkedin.com/in/jannielly-garcia-4b0578191/
 - 👩🏾 Pronomes: Ela/Dela
+- 📭 Contate-me por: janniellygarcia.dev@gmail.com ou https://www.linkedin.com/in/jannielly-garcia-4b0578191/
 
 <div> 
-    <a href="https://instagram.com/janniellygarcia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:janniellygarcia.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jannielly-garcia-4b0578191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+       <a href="https://instagram.com/janniellygarcia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
  
 ##
