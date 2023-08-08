@@ -3,7 +3,7 @@
 - 🤓 Estudante de Engenharia de Computação - UFC
 - 👩🏾‍💻 Desenvolvedora Back-End | C# .NET
 - 👩🏾 Pronomes: Ela/Dela
-- 📭 Contate-me por: janniellygarcia.dev@gmail.com ou https://www.linkedin.com/in/jannielly-garcia-4b0578191/
+- 📭 Contate-me por:
 
 <div> 
     <a href = "mailto:janniellygarcia.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
