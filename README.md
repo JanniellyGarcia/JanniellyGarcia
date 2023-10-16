@@ -32,7 +32,4 @@
   
 ##
  
-
-  
-  ![Snake animation](https://github.com/JanniellyGarcia/JanniellyGarcia/blob/output/github-contribution-grid-snake.svg)
   
