@@ -1,7 +1,7 @@
 ## Olá! Eu sou Jannielly Garcia
 
-- 🤓 Estudante de Engenharia de Computação - UFC
-- 👩🏾‍💻 Desenvolvedora Back-End | C# .NET
+- 🤓 Engenheira de Computação - UFC
+- 👩🏾‍💻 Desenvolvedora FulStack | C# .NET Node.js Extjs Angular
 - 👩🏾 Pronomes: Ela/Dela
 - 📭 Contate-me por:
 
